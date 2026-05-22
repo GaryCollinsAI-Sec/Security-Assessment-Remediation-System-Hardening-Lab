@@ -25,6 +25,12 @@
       <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>System Hardening:</strong> Implemented service-layer remediation, port filtering, and configuration standardization.</td>
       <td style="padding: 10px; border: 1px solid #d0d7de;"><a href="https://github.com/GaryCollinsAI-Sec/Legacy-Service-Remediation-vsFTPd-Exploitation-System-Hardening">View Lab</a></td>
     </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>Credential Security & Auditing</strong></td>
+      <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>Password Cracking & Audit:</strong> Extracted weak password hashes, executed brute-force attacks via John the Ripper, and utilized compromised credentials for unauthorized system access.</td>
+      <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>Security Hardening:</strong> Enforced strong PAM (Pluggable Authentication Modules) password complexities, instituted account lockout policies, disabled root SSH login, and configured key-based authentication.</td>
+      <td style="padding: 10px; border: 1px solid #d0d7de;"><a href="https://github.com/GaryCollinsAI-Sec/Credential-Security-Auditing-Exploitation-Hardening">View Lab</a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -46,7 +52,7 @@
 
 <h2>🛠️ Tech Stack & Lab Environment</h2>
 <ul>
-  <li><strong>Offensive Suite:</strong> Kali Linux (Nmap, Netcat, Manual Exploitation Utilities)</li>
+  <li><strong>Offensive Suite:</strong> Kali Linux (Nmap, Netcat, John the Ripper, Hydra, Manual Exploitation Utilities)</li>
   <li><strong>Target Environment:</strong> Metasploitable 2 (Intentionally vulnerable Linux target)</li>
   <li><strong>Network Infrastructure:</strong> pfSense (VLAN Segmentation, Default-Deny Firewall Rules, Network Isolation)</li>
   <li><strong>Methodology:</strong> NIST-aligned Vulnerability Management and Purple Teaming</li>
