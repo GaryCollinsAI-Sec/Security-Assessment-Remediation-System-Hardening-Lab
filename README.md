@@ -29,7 +29,7 @@
       <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>Credential Security & Auditing</strong></td>
       <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>Password Cracking & Audit:</strong> Extracted weak password hashes, executed brute-force attacks via John the Ripper, and utilized compromised credentials for unauthorized system access.</td>
       <td style="padding: 10px; border: 1px solid #d0d7de;"><strong>Security Hardening:</strong> Enforced strong PAM (Pluggable Authentication Modules) password complexities, instituted account lockout policies, disabled root SSH login, and configured key-based authentication.</td>
-      <td style="padding: 10px; border: 1px solid #d0d7de;"><a href="https://github.com/GaryCollinsAI-Sec/Credential-Security-Auditing-Exploitation-Hardening">View Lab</a></td>
+      <td style="padding: 10px; border: 1px solid #d0d7de;"><a href="https://github.com/GaryCollinsAI-Sec/Purple-Team-Password-Cracking-Audit-Lab">View Lab</a></td>
     </tr>
   </tbody>
 </table>
